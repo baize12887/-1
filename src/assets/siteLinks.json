@@ -1,37 +1,27 @@
 [
   {
-    "icon": "Blog",
-    "name": "博客",
-    "link": "https://blog.imsyy.top/"
+    "icon": "玹羽",
+    "name": "玹羽 Antlers",
+    "link": "https://antlers.pages.dev/"
   },
   {
-    "icon": "Cloud",
-    "name": "网盘",
-    "link": "https://pan.imsyy.top/"
+    "icon": "fofo",
+    "name": "fofo",
+    "link": "https://fofu.dispnt.com/"
   },
   {
-    "icon": "CompactDisc",
-    "name": "音乐",
-    "link": "https://music.imsyy.top/"
+    "icon": "旅客君",
+    "name": "旅客君 LKJ7tud10",
+    "link": "https://space.bilibili.com/15664766/"
   },
   {
-    "icon": "Compass",
-    "name": "起始页",
-    "link": "https://nav.imsyy.top/"
+    "icon": "tinkerren",
+    "name": "tinkerren",
+    "link": "https://www.tinkerren.cn//"
   },
   {
-    "icon": "Book",
-    "name": "网址集",
-    "link": "https://web.imsyy.top/"
-  },
-  {
-    "icon": "Fire",
-    "name": "今日热榜",
-    "link": "https://hot.imsyy.top/"
-  },
-  {
-    "icon": "LaptopCode",
-    "name": "站点监测",
-    "link": "https://status.imsyy.top/"
+    "icon": "皓秋",
+    "name": "皓秋",
+    "link": "https://t.co/gJU5PLRw9h/"
   }
 ]
